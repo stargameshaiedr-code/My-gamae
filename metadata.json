@@ -1,0 +1,6 @@
+{
+  "name": "ساحة قتال العصي",
+  "description": "لعبة قتال العصي الحماسية مع تحولات السايان، وقدرات العناصر، ونظام المعارك، وأدوات التحكم المخصصة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
